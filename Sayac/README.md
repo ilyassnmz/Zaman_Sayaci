@@ -1,6 +1,6 @@
 # ⏳ Zaman Geri Sayım (Time Countdown)
 
-Bu proje, belirlediğiniz bir tarihe kalan süreyi (gün, saat, dakika, saniye) hesaplayan basit ve modern bir web uygulamasıdır. **HTML, CSS ve JavaScript** kullanılarak geliştirilmiştir.
+Bu proje, belirlediğiniz bir tarihe kalan süreyi (gün, saat, dakika, saniye) hesaplayan modern bir web uygulamasıdır. **HTML, CSS ve JavaScript** kullanılarak geliştirilmiştir.
 
 ## 🚀 Özellikler
 - Tarih seçerek geri sayımı başlatma
